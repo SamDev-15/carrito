@@ -206,6 +206,28 @@ nav:hover #carrito{
         margin-bottom: 1%;
         flex: none; /*evita que los items crezcan o se reduscan */
     }
+}
 
-   
+.img-carrito{
+    width: 140px;
+}
+
+
+.btn-delete{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+    background-color: red;
+    border-radius: 35px;
+}
+
+.btn-vaciar{
+    background: rgb(255, 0, 0);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
 }
